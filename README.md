@@ -27,7 +27,8 @@ Este proyecto utiliza las siguientes tecnologías:
 
 1. Clona el repositorio o descarga los archivos.
    ```bash
-   git clone https://github.com/tuusuario/tu-repositorio.git
+   git clone https://github.com/Analucena53/WebBootstrap5.git
+   
 2. Abre el archivo index.html en tu navegador.
 No se necesitan instalaciones adicionales, ya que todo está preparado para ejecutarse en local usando solo HTML, CSS y Bootstrap.
 
